@@ -1,10 +1,10 @@
 # 💖 Valentine GitHub Pages Template
 
 A cute, **mobile-first Valentine website template** built with HTML, CSS, and JavaScript.  
-Designed specifically to look great on **iPhone**, and hosted **100% free** using GitHub Pages.
+Designed to look beautiful on **iPhone**, with smooth buttons, soft colors, and an app-like flow.
 
-This project is perfect if you want to create a romantic  
-**“Will you be my Valentine?”** website with a smooth, app-like flow — no frameworks, no backend, no setup.
+Perfect for creating a romantic  
+**“Will you be my Valentine?”** website and hosting it **for free** on GitHub Pages.
 
 👉 **Live Demo:**  
 https://ii0mer.github.io/valentine-github-pages-template/
@@ -13,30 +13,29 @@ https://ii0mer.github.io/valentine-github-pages-template/
 
 ## 🌸 What is this?
 
-This is a **Valentine mini-website template** you can customize and share with someone special.
+This project is a **Valentine mini-website** that guides someone through a fun, romantic flow:
 
-It guides the user through:
-- a Valentine question
-- a fun confirmation screen
-- an online date selection
-- food & dessert choices
-- a final romantic recap page
+- Valentine question
+- Celebration screen
+- Online date selection
+- Food & dessert choices
+- Final recap page with flowers and sharing option
 
-All optimized for **mobile touch**, especially iPhone.
+Everything is optimized for **touch**, **mobile screens**, and especially **iPhone Safari**.
 
 ---
 
 ## ✨ Features
 
-- 📱 **iPhone-friendly UI** (big buttons, smooth taps, no zoom bugs)
-- 💘 “Be My Valentine” landing page
-- 🎉 Celebration / thank-you screen
-- 💬 Online date planner
-- 🍣 Food & dessert selection
+- 📱 **iPhone-friendly UI** (no zoom bugs, large tap areas)
+- 💘 “Will you be my Valentine?” landing page
+- 🎉 Celebration & thank-you screen
+- 💬 Online date selection flow
+- 🍣 Food & dessert picker
 - 🌸 Romantic final recap page
 - 📋 “Copy our plan” button to share answers
-- ⚙️ Easy customization
-- 🚀 Free hosting with GitHub Pages
+- 🎨 Soft pink theme with rounded cards
+- 🚀 Free hosting using GitHub Pages
 
 ---
 
@@ -61,7 +60,8 @@ No React. No build tools. No dependencies.
 
 <p align="center">
   <img src="screenshot-4-food.png" width="250" />
-  <img src="screenshot-5-final.png" width="250" />
+  <img src="screenshot-5-dessert.png" width="250" />
+  <img src="screenshot-6-final.png" width="250" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ No React. No build tools. No dependencies.
 2. Create your own repository
 3. Go to **Settings → Pages**
 4. Deploy from `main` branch, `/ (root)`
-5. Your site is live 🎉
+5. Your Valentine site is live 💖
 
 ---
 
