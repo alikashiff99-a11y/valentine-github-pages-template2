@@ -10,10 +10,10 @@ window.VALENTINE_CONFIG = {
       note: "Long calls • no distractions"
     },
     {
-      title: "Video Call + Romantic Talks",
+      title: "Ludo + Romantic Talks",
       emoji: "📹",
-      subtitle: "Face to face",
-      note: "Soft smiles • honest talks"
+      subtitle: "Game on, hearts on",
+      note: "Losing doesnt matter when its with you"
     }
   ],
 
