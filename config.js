@@ -7,13 +7,13 @@ window.VALENTINE_CONFIG = {
       title: "Audio Call + Deep Talks",
       emoji: "🎧",
       subtitle: "Just voices, real feelings",
-      note: "Long calls • no distractions"
+      note: "Long calls, no distractions"
     },
     {
       title: "Ludo + Romantic Talks",
       emoji: "🎲",
       subtitle: "Game on, hearts on",
-      note: "Even a simple game turns special when it’s us"
+      note: "Even a simple game turns special when it’s us."
     }
   ],
 
@@ -21,11 +21,11 @@ window.VALENTINE_CONFIG = {
     {
       title: "Pizza Night",
       emoji: "🍕",
-      subtitle: "Cheesy, cozy, perfect together"
+      subtitle: "Warm slices & cozy vibes"
     },
     {
-      title: "Biryani Date",
-      emoji: "🍛",
+      title: "Burgers & Fries",
+      emoji: "🍔",
       subtitle: "Comfort food, comfort love"
     }
   ],
@@ -34,3 +34,4 @@ window.VALENTINE_CONFIG = {
 
   finalButtonText: "No matter where we are, my heart is yours ❤️"
 };
+
