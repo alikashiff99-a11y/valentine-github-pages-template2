@@ -1,4 +1,4 @@
-const config = {
+window.VALENTINE_CONFIG = {
   partnerName: "Fatima",
   nickname: "Janan",
 
@@ -25,4 +25,5 @@ const config = {
   shareCopiedText: "Copied ✅ Now paste it to me 💌",
   shareMessageFooter: "Now you have to show up 😌"
 };
+
 
