@@ -1,6 +1,6 @@
 window.VALENTINE_CONFIG = {
-  "partnerName": "Your Special Someone",
-  "nickname": "Babe",
+  "partnerName": "Fatima",
+  "nickname": "Janan",
   "dateOptions": [
     {
       "title": "Movie Night",
