@@ -28,6 +28,11 @@
       const cfg = window.VALENTINE_CONFIG || {};
       const grid = document.getElementById('grid');
       const options = Array.isArray(cfg.foodOptions) && cfg.foodOptions.length ? cfg.foodOptions : [];
+      if (options.length === 0) {
+  window.location.href = "dessert.html";
+  return;
+}
+
 
       grid.innerHTML = options.map(o => `
         <div class="option" data-value="${o.title} ${o.emoji}">
