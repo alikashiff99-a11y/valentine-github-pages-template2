@@ -13,14 +13,24 @@ window.VALENTINE_CONFIG = {
       title: "Ludo + Romantic Talks",
       emoji: "🎲",
       subtitle: "Game on, hearts on",
-      note: "Losing doesn’t matter when it’s with you"
+      note: "Even a simple game turns special when it’s us"
     }
   ],
 
-  // ✅ These being empty makes food.html & dessert.html auto-skip
-  foodOptions: [],
+  foodOptions: [
+    {
+      title: "Pizza Night",
+      emoji: "🍕",
+      subtitle: "Cheesy, cozy, perfect together"
+    },
+    {
+      title: "Biryani Date",
+      emoji: "🍛",
+      subtitle: "Comfort food, comfort love"
+    }
+  ],
+
   dessertOptions: [],
 
-  // ❤️ Final button text
   finalButtonText: "No matter where we are, my heart is yours ❤️"
 };
