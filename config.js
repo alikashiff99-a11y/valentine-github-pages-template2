@@ -17,8 +17,12 @@ const config = {
     }
   ],
 
+  foodOptions: [],
+  dessertOptions: [],
+
   finalButtonText: "Thank you for being my Valentine 💗",
   shareButtonText: "Copy our plan 💌 (send it to me)",
   shareCopiedText: "Copied ✅ Now paste it to me 💌",
   shareMessageFooter: "Now you have to show up 😌"
 };
+
