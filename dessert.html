@@ -26,6 +26,12 @@
 
     <script>
       const cfg = window.VALENTINE_CONFIG || {};
+
+// 🚀 AUTO-SKIP DESSERT IF EMPTY
+if (!Array.isArray(cfg.dessertOptions) || cfg.dessertOptions.length === 0) {
+  location.href = "lastpage.html";
+}
+
       const grid = document.getElementById('grid');
       const options = Array.isArray(cfg.dessertOptions) && cfg.dessertOptions.length ? cfg.dessertOptions : [];
 
